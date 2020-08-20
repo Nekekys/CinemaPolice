@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/CinemaPolice/static/css/main.137d4538.chunk.css",
+    "main.js": "/CinemaPolice/static/js/main.51baa9ca.chunk.js",
+    "main.js.map": "/CinemaPolice/static/js/main.51baa9ca.chunk.js.map",
+    "runtime-main.js": "/CinemaPolice/static/js/runtime-main.dd039207.js",
+    "runtime-main.js.map": "/CinemaPolice/static/js/runtime-main.dd039207.js.map",
+    "static/js/2.e333f319.chunk.js": "/CinemaPolice/static/js/2.e333f319.chunk.js",
+    "static/js/2.e333f319.chunk.js.map": "/CinemaPolice/static/js/2.e333f319.chunk.js.map",
+    "index.html": "/CinemaPolice/index.html",
+    "precache-manifest.99e3f8d8ee3844bb8392948b69905065.js": "/CinemaPolice/precache-manifest.99e3f8d8ee3844bb8392948b69905065.js",
+    "service-worker.js": "/CinemaPolice/service-worker.js",
+    "static/css/main.137d4538.chunk.css.map": "/CinemaPolice/static/css/main.137d4538.chunk.css.map",
+    "static/js/2.e333f319.chunk.js.LICENSE.txt": "/CinemaPolice/static/js/2.e333f319.chunk.js.LICENSE.txt",
+    "static/media/34e51a18e9188afefef49e4f5d8568c9.jpeg": "/CinemaPolice/static/media/34e51a18e9188afefef49e4f5d8568c9.f9f22823.jpeg",
+    "static/media/big-cogwheel.svg": "/CinemaPolice/static/media/big-cogwheel.7744d1f9.svg",
+    "static/media/close-cross-in-circular-outlined-interface-button.svg": "/CinemaPolice/static/media/close-cross-in-circular-outlined-interface-button.8375c33d.svg",
+    "static/media/ears.jpg": "/CinemaPolice/static/media/ears.169514fd.jpg",
+    "static/media/magnifying-glass.svg": "/CinemaPolice/static/media/magnifying-glass.924ff81a.svg",
+    "static/media/plus.svg": "/CinemaPolice/static/media/plus.d026f1dc.svg",
+    "static/media/podborka_4.jpg": "/CinemaPolice/static/media/podborka_4.c36d02ea.jpg",
+    "static/media/podborka_5.jpg": "/CinemaPolice/static/media/podborka_5.67a8d9cb.jpg",
+    "static/media/podborka_6.jpg": "/CinemaPolice/static/media/podborka_6.592dd094.jpg",
+    "static/media/policeman.svg": "/CinemaPolice/static/media/policeman.43d3793f.svg",
+    "static/media/telegram.svg": "/CinemaPolice/static/media/telegram.b91cc43e.svg",
+    "static/media/upFilm.jpg": "/CinemaPolice/static/media/upFilm.2d6e6a5d.jpg",
+    "static/media/vk-social-logotype.svg": "/CinemaPolice/static/media/vk-social-logotype.d4b26e2e.svg",
+    "static/media/youtube-logotype.svg": "/CinemaPolice/static/media/youtube-logotype.7ec02f80.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd039207.js",
+    "static/js/2.e333f319.chunk.js",
+    "static/css/main.137d4538.chunk.css",
+    "static/js/main.51baa9ca.chunk.js"
+  ]
+}
