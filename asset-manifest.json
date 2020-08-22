@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/CinemaPolice/static/css/main.137d4538.chunk.css",
-    "main.js": "/CinemaPolice/static/js/main.51baa9ca.chunk.js",
-    "main.js.map": "/CinemaPolice/static/js/main.51baa9ca.chunk.js.map",
+    "main.css": "/CinemaPolice/static/css/main.d4888950.chunk.css",
+    "main.js": "/CinemaPolice/static/js/main.2a21fecc.chunk.js",
+    "main.js.map": "/CinemaPolice/static/js/main.2a21fecc.chunk.js.map",
     "runtime-main.js": "/CinemaPolice/static/js/runtime-main.dd039207.js",
     "runtime-main.js.map": "/CinemaPolice/static/js/runtime-main.dd039207.js.map",
-    "static/js/2.e333f319.chunk.js": "/CinemaPolice/static/js/2.e333f319.chunk.js",
-    "static/js/2.e333f319.chunk.js.map": "/CinemaPolice/static/js/2.e333f319.chunk.js.map",
+    "static/js/2.d5ccd3c1.chunk.js": "/CinemaPolice/static/js/2.d5ccd3c1.chunk.js",
+    "static/js/2.d5ccd3c1.chunk.js.map": "/CinemaPolice/static/js/2.d5ccd3c1.chunk.js.map",
     "index.html": "/CinemaPolice/index.html",
-    "precache-manifest.99e3f8d8ee3844bb8392948b69905065.js": "/CinemaPolice/precache-manifest.99e3f8d8ee3844bb8392948b69905065.js",
+    "precache-manifest.941546aeaf46a39b3da02a21cdd7f076.js": "/CinemaPolice/precache-manifest.941546aeaf46a39b3da02a21cdd7f076.js",
     "service-worker.js": "/CinemaPolice/service-worker.js",
-    "static/css/main.137d4538.chunk.css.map": "/CinemaPolice/static/css/main.137d4538.chunk.css.map",
-    "static/js/2.e333f319.chunk.js.LICENSE.txt": "/CinemaPolice/static/js/2.e333f319.chunk.js.LICENSE.txt",
+    "static/css/main.d4888950.chunk.css.map": "/CinemaPolice/static/css/main.d4888950.chunk.css.map",
+    "static/js/2.d5ccd3c1.chunk.js.LICENSE.txt": "/CinemaPolice/static/js/2.d5ccd3c1.chunk.js.LICENSE.txt",
     "static/media/34e51a18e9188afefef49e4f5d8568c9.jpeg": "/CinemaPolice/static/media/34e51a18e9188afefef49e4f5d8568c9.f9f22823.jpeg",
     "static/media/big-cogwheel.svg": "/CinemaPolice/static/media/big-cogwheel.7744d1f9.svg",
     "static/media/close-cross-in-circular-outlined-interface-button.svg": "/CinemaPolice/static/media/close-cross-in-circular-outlined-interface-button.8375c33d.svg",
@@ -29,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.dd039207.js",
-    "static/js/2.e333f319.chunk.js",
-    "static/css/main.137d4538.chunk.css",
-    "static/js/main.51baa9ca.chunk.js"
+    "static/js/2.d5ccd3c1.chunk.js",
+    "static/css/main.d4888950.chunk.css",
+    "static/js/main.2a21fecc.chunk.js"
   ]
 }
